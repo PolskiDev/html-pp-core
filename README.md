@@ -1,6 +1,3 @@
-# html-pp-core
-HTML++ Compiler Core (source code download)
-
 # HTML++ Compiler Core (since 2.0.3 Emerald) 
 Repository Name: html-pp-core 
   
